@@ -1,12 +1,14 @@
 this is the text that will be in conflicts
 # line 1
-# line 2
+# line 2 was changed as line 3
 # line 3
 # line 4
 # line 5
-# line 6
 # line 7
+# line 6 // was switched with 7
 # line 8
 # line 9
 
 END
+
+more text at the end
