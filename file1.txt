@@ -1,6 +1,6 @@
 this is the text that will be in conflicts
-# line 1
-# line 2
+# line 1 was changed as line 2
+# line 2 was changed as line 1
 # line 3
 # line 4
 # line 5
@@ -8,5 +8,5 @@ this is the text that will be in conflicts
 # line 7
 # line 8
 # line 9
-
+# line 10
 END
