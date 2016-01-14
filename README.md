@@ -1,2 +1,2 @@
 # gitConflicts
-Usefull for resolving conflicts
+Useful for resolving conflicts
